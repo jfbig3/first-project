@@ -1,3 +1,14 @@
 body {
-  font-family: Helvetica
+    background-color: #f0f0f0; /* Sets the background color of the page */
+    font-family: Arial, sans-serif; /* Sets the font family for the page */
+}
+
+h1 {
+    color: #333; /* Sets the text color of all h1 elements */
+    text-align: center; /* Centers the text of all h1 elements */
+}
+
+p {
+    color: #666; /* Sets the text color of all paragraph elements */
+    line-height: 1.5; /* Sets the line height for all paragraph elements */
 }
